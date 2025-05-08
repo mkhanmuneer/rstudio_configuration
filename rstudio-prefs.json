@@ -1,0 +1,10 @@
+{
+    "restore_source_documents": false,
+    "save_workspace": "never",
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "always_save_history": false,
+    "restore_last_project": false,
+    "pdf_previewer": "none",
+    "windows_terminal_shell": "win-git-bash"
+}
