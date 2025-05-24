@@ -6,5 +6,41 @@
     "always_save_history": false,
     "restore_last_project": false,
     "pdf_previewer": "none",
-    "windows_terminal_shell": "win-git-bash"
+    "windows_terminal_shell": "win-git-bash",
+    "editor_theme": "Ambiance",
+    "panes": {
+        "quadrants": [
+            "TabSet2",
+            "TabSet1",
+            "Source",
+            "Console"
+        ],
+        "tabSet1": [
+            "Environment",
+            "History",
+            "Connections",
+            "Build",
+            "Help",
+            "Presentation"
+        ],
+        "tabSet2": [
+            "Files",
+            "Packages",
+            "VCS",
+            "Viewer",
+            "Presentations"
+        ],
+        "hiddenTabSet": [
+            "Plots",
+            "Tutorial"
+        ],
+        "console_left_on_top": false,
+        "console_right_on_top": true,
+        "additional_source_columns": 0
+    },
+    "jobs_tab_visibility": "shown",
+    "font_size_points": 11,
+    "help_font_size_points": 11,
+    "show_terminal_tab": false,
+    "browserPath": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
 }

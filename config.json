@@ -8,12 +8,12 @@
 		"fixedWidthFont": ""
 	},
 	"view": {
-		"zoomLevel": 1,
+		"zoomLevel": 1.1,
 		"windowBounds": {
-			"x": 800,
+			"x": 1913,
 			"y": 0,
-			"width": 954,
-			"height": 947,
+			"width": 974,
+			"height": 1039,
 			"maximized": true
 		},
 		"accessibility": false,
